@@ -1,5 +1,5 @@
 ### Hi there! My name is Kevin Figueroa. Welcome to my github profile.
-You can find me on linkedin on:[Linkedin](www.linkedin.com/in/kevin-figueroa-arronte97)
+You can find me on linkedin on: [Linkedin](www.linkedin.com/in/kevin-figueroa-arronte97)
 
 ### About me 🚀
 - ⚡ I am an economist with a Master's from Boston University. I am a passionate of data for decision making, and that is why I have specialized myslef in tools for data analysis and data science. 
